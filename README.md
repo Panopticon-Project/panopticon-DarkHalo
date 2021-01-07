@@ -1,4 +1,4 @@
-# panopticon-SolarWinds
+# panopticon-DarkHalo
 
 https://www.securityweek.com/group-behind-solarwinds-hack-bypassed-mfa-access-emails-us-think-tank
 
@@ -57,3 +57,15 @@ https://www.infosecurity-magazine.com/news/us-fewer-10-government-agencies/
 https://www.bleepingcomputer.com/news/security/solarwinds-hackers-had-access-to-over-3-000-us-doj-email-accounts/
 
 https://cyber.dhs.gov/ed/21-01/#supplemental-guidance-v3
+
+https://www.securityweek.com/global-espionage-campaign-used-software-supply-chain-hack-compromise-targets-including-us-gov
+
+https://www.securityweek.com/us-government-confirms-cyberattack
+
+https://www.securityweek.com/fireeye-says-sophisticated-hacker-stole-red-team-tools
+
+https://www.securityweek.com/solarwinds-says-18000-customers-may-have-used-compromised-product
+
+https://www.volexity.com/blog/2020/12/14/dark-halo-leverages-solarwinds-compromise-to-breach-organizations/
+
+https://msrc-blog.microsoft.com/2020/12/13/customer-guidance-on-recent-nation-state-cyber-attacks/
