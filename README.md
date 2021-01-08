@@ -69,3 +69,5 @@ https://www.securityweek.com/solarwinds-says-18000-customers-may-have-used-compr
 https://www.volexity.com/blog/2020/12/14/dark-halo-leverages-solarwinds-compromise-to-breach-organizations/
 
 https://msrc-blog.microsoft.com/2020/12/13/customer-guidance-on-recent-nation-state-cyber-attacks/
+
+https://www.securityweek.com/investigation-launched-role-jetbrains-product-solarwinds-hack-reports
