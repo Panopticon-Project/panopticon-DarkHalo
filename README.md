@@ -1,7 +1,5 @@
 # panopticon-DarkHalo
 
-https://arstechnica.com/information-technology/2020/12/security-firm-fireeye-says-nation-state-hackers-stole-potent-attack-tools/
-
 https://www.scmagazine.com/home/security-news/apts-cyberespionage/disconnect-or-power-down-after-high-profile-hacks-cisa-demands-drastic-solarwinds-mitigation/
 
 https://www.theregister.com/2020/12/14/solarwinds_public_sector/
@@ -77,3 +75,7 @@ https://www.solarwinds.com/securityadvisory
 https://www.securityweek.com/solarwinds-says-18000-customers-may-have-used-compromised-product
 
 https://www.microsoft.com/security/blog/2020/12/15/ensuring-customers-are-protected-from-solorigate/
+
+https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html
+
+https://www.nytimes.com/2020/12/08/technology/fireeye-hacked-russians.html
