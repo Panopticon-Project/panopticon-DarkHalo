@@ -71,3 +71,7 @@ https://www.volexity.com/blog/2020/12/14/dark-halo-leverages-solarwinds-compromi
 https://msrc-blog.microsoft.com/2020/12/13/customer-guidance-on-recent-nation-state-cyber-attacks/
 
 https://www.securityweek.com/investigation-launched-role-jetbrains-product-solarwinds-hack-reports
+
+https://www.securityweek.com/justice-department-says-its-been-affected-russian-hack
+
+https://www.securityweek.com/us-hack-federal-agencies-likely-russian-origin
