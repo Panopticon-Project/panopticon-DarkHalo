@@ -71,3 +71,11 @@ https://www.securityweek.com/investigation-launched-role-jetbrains-product-solar
 https://www.securityweek.com/justice-department-says-its-been-affected-russian-hack
 
 https://www.securityweek.com/us-hack-federal-agencies-likely-russian-origin
+
+https://www.securityweek.com/global-espionage-campaign-used-software-supply-chain-hack-compromise-targets-including-us-gov
+
+https://www.solarwinds.com/securityadvisory
+
+https://www.securityweek.com/solarwinds-says-18000-customers-may-have-used-compromised-product
+
+https://www.microsoft.com/security/blog/2020/12/15/ensuring-customers-are-protected-from-solorigate/
