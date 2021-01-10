@@ -1,7 +1,5 @@
 # panopticon-DarkHalo
 
-https://www.theregister.com/2020/12/14/solarwinds_public_sector/
-
 https://siliconangle.com/2020/12/13/russian-hackers-allegedly-hack-us-commerce-treasury-departments/
 
 https://www.hackread.com/us-federal-agencies-hacked-russian-hackers/
