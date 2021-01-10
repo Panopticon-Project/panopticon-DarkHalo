@@ -79,3 +79,5 @@ https://www.microsoft.com/security/blog/2020/12/15/ensuring-customers-are-protec
 https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html
 
 https://www.nytimes.com/2020/12/08/technology/fireeye-hacked-russians.html
+
+https://securityaffairs.co/wordpress/113210/cyber-warfare-2/solarwinds-hacker-techniques-cisa.html
