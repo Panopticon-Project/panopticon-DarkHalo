@@ -89,3 +89,11 @@ https://www.reuters.com/article/usa-cyber-amazoncom/exclusive-u-s-treasury-breac
 https://www.washingtonpost.com/national-security/russian-government-spies-are-behind-a-broad-hacking-campaign-that-has-breached-us-agencies-and-a-top-cyber-firm/2020/12/13/d5a53b88-3d7d-11eb-9453-fc36ba051781_story.html
 
 https://www.scmagazine.com/home/security-news/apts-cyberespionage/fireeye-hacked-red-team-tools-stolen/
+
+https://www.theregister.com/2020/12/14/solarwinds_fireeye_cozybear_us_government/
+
+https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html
+
+https://www.theregister.com/2020/12/09/fireeye_tools_hacked/
+
+https://regmedia.co.uk/2020/12/14/sec_solarwinds.pdf
