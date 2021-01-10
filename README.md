@@ -95,3 +95,11 @@ https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-
 https://www.theregister.com/2020/12/09/fireeye_tools_hacked/
 
 https://regmedia.co.uk/2020/12/14/sec_solarwinds.pdf
+
+https://www.reuters.com/article/us-usa-cyber-amazon-com-exclsuive-idUSKBN28N0PG
+
+https://www.cyberscoop.com/russian-hacking-treasury-commerce-fireeye/
+
+https://www.reuters.com/article/us-usa-solarwinds-cyber-idUSKBN28N0Y7
+
+https://siliconangle.com/2020/12/08/suspected-state-sponsored-attackers-hack-fireeye-seal-security-testing-tools/
