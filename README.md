@@ -81,3 +81,5 @@ https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-detail
 https://www.nytimes.com/2020/12/08/technology/fireeye-hacked-russians.html
 
 https://securityaffairs.co/wordpress/113210/cyber-warfare-2/solarwinds-hacker-techniques-cisa.html
+
+https://us-cert.cisa.gov/ncas/current-activity/2021/01/08/cisa-releases-new-alert-post-compromise-threat-activity-microsoft
