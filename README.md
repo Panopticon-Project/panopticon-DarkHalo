@@ -1,7 +1,5 @@
 # panopticon-DarkHalo
 
-https://siliconangle.com/2020/12/13/russian-hackers-allegedly-hack-us-commerce-treasury-departments/
-
 https://www.hackread.com/us-federal-agencies-hacked-russian-hackers/
 
 https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html
