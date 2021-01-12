@@ -103,3 +103,7 @@ https://siliconangle.com/2020/12/08/suspected-state-sponsored-attackers-hack-fir
 https://www.securityweek.com/sunspot-malware-used-insert-backdoor-solarwinds-product-supply-chain-attack
 
 https://www.securityweek.com/malware-used-solarwinds-attack-linked-backdoor-attributed-turla-cyberspies
+
+https://securelist.com/sunburst-backdoor-kazuar/99981/
+
+https://www.cyberscoop.com/solarwinds-malicious-code-crowdstrike-russia/
