@@ -99,3 +99,7 @@ https://www.cyberscoop.com/russian-hacking-treasury-commerce-fireeye/
 https://www.reuters.com/article/us-usa-solarwinds-cyber-idUSKBN28N0Y7
 
 https://siliconangle.com/2020/12/08/suspected-state-sponsored-attackers-hack-fireeye-seal-security-testing-tools/
+
+https://www.securityweek.com/sunspot-malware-used-insert-backdoor-solarwinds-product-supply-chain-attack
+
+https://www.securityweek.com/malware-used-solarwinds-attack-linked-backdoor-attributed-turla-cyberspies
