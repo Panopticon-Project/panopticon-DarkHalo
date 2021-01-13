@@ -107,3 +107,5 @@ https://www.securityweek.com/malware-used-solarwinds-attack-linked-backdoor-attr
 https://securelist.com/sunburst-backdoor-kazuar/99981/
 
 https://www.cyberscoop.com/solarwinds-malicious-code-crowdstrike-russia/
+
+https://www.wired.com/story/solarwinds-russia-hackers-turla-malware/
