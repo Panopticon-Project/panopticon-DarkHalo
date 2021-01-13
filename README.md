@@ -109,3 +109,5 @@ https://securelist.com/sunburst-backdoor-kazuar/99981/
 https://www.cyberscoop.com/solarwinds-malicious-code-crowdstrike-russia/
 
 https://www.wired.com/story/solarwinds-russia-hackers-turla-malware/
+
+https://www.securityweek.com/probe-launched-impact-solarwinds-breach-federal-courts
