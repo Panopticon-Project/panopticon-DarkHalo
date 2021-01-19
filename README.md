@@ -113,3 +113,5 @@ https://www.wired.com/story/solarwinds-russia-hackers-turla-malware/
 https://www.securityweek.com/probe-launched-impact-solarwinds-breach-federal-courts
 
 https://www.domaintools.com/resources/blog/the-devils-in-the-details-sunburst-attribution#
+
+https://www.securityweek.com/mimecast-discloses-certificate-incident-possibly-related-solarwinds-hack
