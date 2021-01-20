@@ -119,3 +119,5 @@ https://www.securityweek.com/mimecast-discloses-certificate-incident-possibly-re
 https://www.securityweek.com/solarwinds-hackers-used-raindrop-malware-lateral-movement
 
 https://www.securityweek.com/fireeye-releases-new-open-source-tool-response-solarwinds-hack
+
+https://www.wired.com/story/solarwinds-hacker-methods-copycats/
