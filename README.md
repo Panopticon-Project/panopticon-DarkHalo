@@ -115,3 +115,5 @@ https://www.securityweek.com/probe-launched-impact-solarwinds-breach-federal-cou
 https://www.domaintools.com/resources/blog/the-devils-in-the-details-sunburst-attribution#
 
 https://www.securityweek.com/mimecast-discloses-certificate-incident-possibly-related-solarwinds-hack
+
+https://www.securityweek.com/solarwinds-hackers-used-raindrop-malware-lateral-movement
