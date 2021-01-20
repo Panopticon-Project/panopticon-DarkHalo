@@ -117,3 +117,5 @@ https://www.domaintools.com/resources/blog/the-devils-in-the-details-sunburst-at
 https://www.securityweek.com/mimecast-discloses-certificate-incident-possibly-related-solarwinds-hack
 
 https://www.securityweek.com/solarwinds-hackers-used-raindrop-malware-lateral-movement
+
+https://www.securityweek.com/fireeye-releases-new-open-source-tool-response-solarwinds-hack
