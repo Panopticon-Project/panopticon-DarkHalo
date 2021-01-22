@@ -121,3 +121,7 @@ https://www.securityweek.com/solarwinds-hackers-used-raindrop-malware-lateral-mo
 https://www.securityweek.com/fireeye-releases-new-open-source-tool-response-solarwinds-hack
 
 https://www.wired.com/story/solarwinds-hacker-methods-copycats/
+
+https://www.securityweek.com/microsoft-details-opsec-anti-forensic-techniques-used-solarwinds-hackers
+
+https://www.securityweek.com/malwarebytes-targeted-solarwinds-hackers
