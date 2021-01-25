@@ -125,3 +125,7 @@ https://www.wired.com/story/solarwinds-hacker-methods-copycats/
 https://www.securityweek.com/microsoft-details-opsec-anti-forensic-techniques-used-solarwinds-hackers
 
 https://www.securityweek.com/malwarebytes-targeted-solarwinds-hackers
+
+https://www.securitymagazine.com/articles/94386-new-malware-discovered-in-solarwinds-investigation
+
+https://www.microsoft.com/security/blog/2021/01/20/deep-dive-into-the-solorigate-second-stage-activation-from-sunburst-to-teardrop-and-raindrop/
