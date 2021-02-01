@@ -133,3 +133,5 @@ https://www.microsoft.com/security/blog/2021/01/20/deep-dive-into-the-solorigate
 https://blog.malwarebytes.com/malwarebytes-news/2021/01/malwarebytes-targeted-by-nation-state-actor-implicated-in-solarwinds-breach-evidence-suggests-abuse-of-privileged-access-to-microsoft-office-365-and-azure-environments/
 
 https://www.bleepingcomputer.com/news/security/mimecast-links-security-breach-to-solarwinds-hackers/
+
+https://arstechnica.com/information-technology/2021/01/30-of-solarwinds-hack-victims-didnt-actually-use-solarwinds/
