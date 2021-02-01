@@ -131,3 +131,5 @@ https://www.securitymagazine.com/articles/94386-new-malware-discovered-in-solarw
 https://www.microsoft.com/security/blog/2021/01/20/deep-dive-into-the-solorigate-second-stage-activation-from-sunburst-to-teardrop-and-raindrop/
 
 https://blog.malwarebytes.com/malwarebytes-news/2021/01/malwarebytes-targeted-by-nation-state-actor-implicated-in-solarwinds-breach-evidence-suggests-abuse-of-privileged-access-to-microsoft-office-365-and-azure-environments/
+
+https://www.bleepingcomputer.com/news/security/mimecast-links-security-breach-to-solarwinds-hackers/
