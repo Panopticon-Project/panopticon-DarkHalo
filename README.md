@@ -135,3 +135,5 @@ https://blog.malwarebytes.com/malwarebytes-news/2021/01/malwarebytes-targeted-by
 https://www.bleepingcomputer.com/news/security/mimecast-links-security-breach-to-solarwinds-hackers/
 
 https://arstechnica.com/information-technology/2021/01/30-of-solarwinds-hack-victims-didnt-actually-use-solarwinds/
+
+https://www.securityweek.com/microsoft-says-its-services-not-used-entry-point-solarwinds-hackers
