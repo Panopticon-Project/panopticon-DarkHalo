@@ -141,3 +141,5 @@ https://www.securityweek.com/microsoft-says-its-services-not-used-entry-point-so
 https://blog.qualys.com/vulnerabilities-research/2021/02/01/unpacking-the-fireeye-breach-start-here-first
 
 https://www.helpnetsecurity.com/2021/02/03/solarwinds-state-sponsored-hackers/
+
+https://www.schneier.com/blog/archives/2021/02/more-solarwinds-news.html
