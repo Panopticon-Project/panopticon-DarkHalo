@@ -143,3 +143,7 @@ https://blog.qualys.com/vulnerabilities-research/2021/02/01/unpacking-the-fireey
 https://www.helpnetsecurity.com/2021/02/03/solarwinds-state-sponsored-hackers/
 
 https://www.schneier.com/blog/archives/2021/02/more-solarwinds-news.html
+
+https://us-cert.cisa.gov/ncas/analysis-reports/ar21-039a
+
+https://us-cert.cisa.gov/ncas/analysis-reports/ar21-039b
