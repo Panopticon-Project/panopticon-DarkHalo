@@ -151,3 +151,9 @@ https://us-cert.cisa.gov/ncas/analysis-reports/ar21-039b
 https://www.wired.com/story/solarwinds-hack-china-usda/
 
 https://www.securityweek.com/china-linked-hackers-exploited-solarwinds-flaw-us-government-attack-report
+
+https://apnews.com/article/coronavirus-pandemic-courts-russia-375942a439bee4f4b25f393224d3d778
+
+https://www.theregister.com/2021/02/01/us_court_papers/
+
+https://www.uscourts.gov/news/2021/01/06/judiciary-addresses-cybersecurity-breach-extra-safeguards-protect-sensitive-court
