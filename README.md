@@ -147,3 +147,7 @@ https://www.schneier.com/blog/archives/2021/02/more-solarwinds-news.html
 https://us-cert.cisa.gov/ncas/analysis-reports/ar21-039a
 
 https://us-cert.cisa.gov/ncas/analysis-reports/ar21-039b
+
+https://www.wired.com/story/solarwinds-hack-china-usda/
+
+https://www.securityweek.com/china-linked-hackers-exploited-solarwinds-flaw-us-government-attack-report
