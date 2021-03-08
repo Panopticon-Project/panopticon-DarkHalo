@@ -163,3 +163,5 @@ https://www.cyberscoop.com/mimecast-solarwinds-software-certificate-russia/
 https://www.bleepingcomputer.com/news/security/us-coast-guard-orders-maritime-facilities-to-report-solarwinds-breaches/
 
 https://www.securityweek.com/many-solarwinds-customers-failed-secure-systems-following-hack?microsoft
+
+https://www.fireeye.com/blog/threat-research/2021/03/sunshuttle-second-stage-backdoor-targeting-us-based-entity.html
