@@ -167,3 +167,5 @@ https://www.securityweek.com/many-solarwinds-customers-failed-secure-systems-fol
 https://www.fireeye.com/blog/threat-research/2021/03/sunshuttle-second-stage-backdoor-targeting-us-based-entity.html
 
 https://www.wired.com/story/china-russia-spying-sprees-years-to-unpack/
+
+https://www.securityweek.com/microsoft-releases-open-source-resources-solorigate-threat-hunting
