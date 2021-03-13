@@ -169,3 +169,5 @@ https://www.fireeye.com/blog/threat-research/2021/03/sunshuttle-second-stage-bac
 https://www.wired.com/story/china-russia-spying-sprees-years-to-unpack/
 
 https://www.securityweek.com/microsoft-releases-open-source-resources-solorigate-threat-hunting
+
+https://www.securityweek.com/three-new-malware-strains-linked-solarwinds-hackers
