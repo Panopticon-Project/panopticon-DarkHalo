@@ -175,3 +175,5 @@ https://www.securityweek.com/three-new-malware-strains-linked-solarwinds-hackers
 https://www.bleepingcomputer.com/news/security/mimecast-solarwinds-hackers-stole-some-of-our-source-code/
 
 https://us-cert.cisa.gov/ncas/current-activity/2021/03/17/ttp-table-detecting-apt-activity-related-solarwinds-and-active
+
+https://us-cert.cisa.gov/ncas/current-activity/2021/01/27/cisa-malware-analysis-supernova
