@@ -181,3 +181,5 @@ https://us-cert.cisa.gov/ncas/current-activity/2021/01/27/cisa-malware-analysis-
 https://siliconangle.com/2021/03/29/solarwinds-hackers-reported-gained-access-emails-top-dhs-officials/
 
 https://www.gov.uk/government/news/russia-uk-exposes-russian-involvement-in-solarwinds-cyber-compromise
+
+https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/15/fact-sheet-imposing-costs-for-harmful-foreign-activities-by-the-russian-government/
