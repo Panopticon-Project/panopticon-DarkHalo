@@ -185,3 +185,5 @@ https://www.gov.uk/government/news/russia-uk-exposes-russian-involvement-in-sola
 https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/15/fact-sheet-imposing-costs-for-harmful-foreign-activities-by-the-russian-government/
 
 https://us-cert.cisa.gov/ncas/current-activity/2021/04/15/cisa-and-cnmf-analysis-solarwinds-related-malware
+
+https://www.nextgov.com/cybersecurity/2021/05/37-defense-industrial-base-companies-affected-solarwinds-intrusion/174152/
