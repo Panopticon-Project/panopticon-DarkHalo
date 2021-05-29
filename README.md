@@ -197,3 +197,5 @@ https://www.wired.com/story/russia-solarwinds-hackers-phishing-usaid/
 https://www.cyberscoop.com/solarwinds-ceo-reveals-much-earlier-hack-timeline-regrets-company-blaming-intern/
 
 https://us-cert.cisa.gov/ncas/current-activity/2021/05/14/cisa-publishes-eviction-guidance-networks-affected-solarwinds-and
+
+https://www.securityweek.com/solarwinds-shares-more-information-cyberattack-impact-initial-access-vector
