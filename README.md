@@ -189,3 +189,5 @@ https://us-cert.cisa.gov/ncas/current-activity/2021/04/15/cisa-and-cnmf-analysis
 https://www.nextgov.com/cybersecurity/2021/05/37-defense-industrial-base-companies-affected-solarwinds-intrusion/174152/
 
 https://www.securityweek.com/hackers-targeted-solarwinds-earlier-previously-known
+
+https://blogs.microsoft.com/on-the-issues/2021/05/27/nobelium-cyberattack-nativezone-solarwinds/
