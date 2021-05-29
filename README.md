@@ -193,3 +193,5 @@ https://www.securityweek.com/hackers-targeted-solarwinds-earlier-previously-know
 https://blogs.microsoft.com/on-the-issues/2021/05/27/nobelium-cyberattack-nativezone-solarwinds/
 
 https://www.wired.com/story/russia-solarwinds-hackers-phishing-usaid/
+
+https://www.cyberscoop.com/solarwinds-ceo-reveals-much-earlier-hack-timeline-regrets-company-blaming-intern/
