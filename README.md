@@ -199,3 +199,5 @@ https://www.cyberscoop.com/solarwinds-ceo-reveals-much-earlier-hack-timeline-reg
 https://us-cert.cisa.gov/ncas/current-activity/2021/05/14/cisa-publishes-eviction-guidance-networks-affected-solarwinds-and
 
 https://www.securityweek.com/solarwinds-shares-more-information-cyberattack-impact-initial-access-vector
+
+https://www.hackread.com/solarwinds-hackers-ios-zero-day-hack-iphones/
