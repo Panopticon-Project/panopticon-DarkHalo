@@ -201,3 +201,5 @@ https://us-cert.cisa.gov/ncas/current-activity/2021/05/14/cisa-publishes-evictio
 https://www.securityweek.com/solarwinds-shares-more-information-cyberattack-impact-initial-access-vector
 
 https://www.hackread.com/solarwinds-hackers-ios-zero-day-hack-iphones/
+
+https://securityaffairs.co/wordpress/120704/cyber-warfare-2/solarwinds-hackers-breached-state-attorneys-offices.html
