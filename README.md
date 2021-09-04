@@ -205,3 +205,5 @@ https://www.hackread.com/solarwinds-hackers-ios-zero-day-hack-iphones/
 https://securityaffairs.co/wordpress/120704/cyber-warfare-2/solarwinds-hackers-breached-state-attorneys-offices.html
 
 https://www.theregister.com/2021/09/02/autodesk_solarwinds_hack_victim/
+
+https://www.securityweek.com/microsoft-hacked-solarwinds-ftp-software-lacked-basic-anti-exploit-mitigation
