@@ -209,3 +209,5 @@ https://www.theregister.com/2021/09/02/autodesk_solarwinds_hack_victim/
 https://www.securityweek.com/microsoft-hacked-solarwinds-ftp-software-lacked-basic-anti-exploit-mitigation
 
 https://www.inversecos.com/2021/09/backdooring-office-365-and-active.html
+
+https://www.securityweek.com/cyberespionage-implant-delivered-targeted-government-dns-hijacking
