@@ -211,3 +211,5 @@ https://www.securityweek.com/microsoft-hacked-solarwinds-ftp-software-lacked-bas
 https://www.inversecos.com/2021/09/backdooring-office-365-and-active.html
 
 https://www.securityweek.com/cyberespionage-implant-delivered-targeted-government-dns-hijacking
+
+https://www.zdnet.com/article/the-tomiris-backdoor-has-now-been-linked-to-sunshuttle-darkhalo-hackers/
