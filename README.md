@@ -215,3 +215,5 @@ https://www.securityweek.com/cyberespionage-implant-delivered-targeted-governmen
 https://www.zdnet.com/article/the-tomiris-backdoor-has-now-been-linked-to-sunshuttle-darkhalo-hackers/
 
 https://securelist.com/darkhalo-after-solarwinds-the-tomiris-connection/104311/
+
+https://www.gao.gov/products/gao-22-104746
